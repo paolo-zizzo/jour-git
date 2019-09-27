@@ -1,0 +1,45 @@
+
+body{
+background:grey;
+}	
+	
+	
+	
+	table{
+	 text-align: center;
+	 background:#B0F2B6;
+	 margin-left:auto;
+	 margin-right:auto;
+	 width:75%;
+	border:3px solid white
+  
+}
+
+
+
+caption{
+	text-shadow: #FC0 1px 0 10px;
+	text-align:center;
+	font-size:26px;
+	
+	
+}
+
+
+
+td{
+	border:3px solid white
+	
+}
+	
+	
+th{
+	border:5px solid black;
+	text-align:center;
+	
+}
+
+
+
+	
+	
